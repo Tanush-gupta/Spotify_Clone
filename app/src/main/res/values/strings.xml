@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Spotify_Clone</string>
+    <string name="login">Login</string>
+    <string name="image">Image</string>
+    <string name="continue_with_google">Continue with Google</string>
+    <string name="continue_with_phone">Continue With Phone</string>
+    <string name="millions_of_songs_free_on_spotify">Millions of Songs. Free on Spotify</string>
+    <string name="don_t_have_an_account">Don\'t have an account ?</string>
+    <string name="sign_up_free">Sign up free</string>
+    <string name="icon">Icon</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login_btn">Login</string>
+    <string name="spotify_text_icon">Spotify_text_icon</string>
+</resources>
